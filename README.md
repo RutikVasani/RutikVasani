@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutik Vasani</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/RutikVasani/RutikVasani/blob/main/git.jpg" width="100"/>
 </div>
 
 <h6 align="center">I'm a 3rd year student of computer science and engineering from Devang Patel Institute of Advance Technology and Research, Charusat Univresity at anand, gujarat, india.I'm a passionate lerner who is always to learn and work across techologies and domains. I love to explore new techoologies and leverage them to solve in real-life problem.I'm currently into flutter development and working on firebase skils.</h6>
