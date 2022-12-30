@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutik Vasani</h1>
-<h3 align="center">I am a Flutter Firebase Developer From India.</h3>
+<h6 align="center">I'm a 3rd year student of computer science and engineering from Devang Patel Institute of Advance Technology and Research, Charusat Univresity at anand, gujarat, india.I'm a passionate lerner who is always to learn and work across techologies and domains. I love to explore new techoologies and leverage them to solve in real-life problem.I'm currently into flutter development and working on firebase skils.</h6>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutikvasani" alt="rutikvasani" /></a> </p>
 
