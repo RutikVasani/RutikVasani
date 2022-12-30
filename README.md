@@ -1,4 +1,4 @@
-<img align="center" alt="Github" width="400" src="[https://drive.google.com/file/d/17PrXTq-p24d7kmThh2IM8Q9IvrMjr4DG/view?usp=share_link](https://github.com/RutikVasani/RutikVasani/blob/main/git.jpg)">
+![Header](./https://github.com/RutikVasani/RutikVasani/blob/main/git.jpg)">
 <h1 align="center">Hi 👋, I'm Rutik Vasani</h1>
 <h6 align="center">I'm a 3rd year student of computer science and engineering from Devang Patel Institute of Advance Technology and Research, Charusat Univresity at anand, gujarat, india.I'm a passionate lerner who is always to learn and work across techologies and domains. I love to explore new techoologies and leverage them to solve in real-life problem.I'm currently into flutter development and working on firebase skils.</h6>
 
