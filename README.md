@@ -19,7 +19,7 @@
 
 
 <div id="Stats" align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutikvasani&show_icons=true&locale=en" alt="rutikvasani" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikvasani&" alt="rutikvasani" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutikvasani&show_icons=true&locale=en" alt="rutikvasani", width = "200" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutikvasani&" alt="rutikvasani", width = "200" /></p>
 </div>
 
