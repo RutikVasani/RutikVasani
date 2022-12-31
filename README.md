@@ -6,12 +6,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutikvasani" alt="rutikvasani" /></a> </p>
 
 - 📫 How to reach me **rutikvasani370@gmail.com**
-- <div id="badges" align="center">
+- <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/rutikvasani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href= "rutikvasani370@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=**rutikvasani370@gmail.com**&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 - <h3 align="left">Connect with me:</h3>
