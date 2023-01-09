@@ -1,7 +1,7 @@
  <div id = "header"><p><img align="center" src="https://github.com/RutikVasani/RutikVasani/blob/main/github-header.png" alt="rutikvasani" /></p></div>
 
 
-<h6 align="center">I'm a 3rd year student of computer science and engineering from Devang Patel Institute of Advance Technology and Research, Charusat Univresity at anand, gujarat, india.I'm a passionate learner who is always ready to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.I'm currently into flutter development and working on firebase skils.</h6>
+<h6 align="center">I'm a 3rd year student of computer science and engineering from Devang Patel Institute of Advance Technology and Research, Charusat University at anand, gujarat, india.I'm a passionate learner who is always ready to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.I'm currently into flutter development and working on firebase skils.</h6>
 
 
 <h3>📫 How to reach me :-</h3>
